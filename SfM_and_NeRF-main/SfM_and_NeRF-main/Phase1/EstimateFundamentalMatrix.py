@@ -1,5 +1,4 @@
 # RBE549: Building Built in Minutes using SfM
-# Karter Krueger and Tript Sharma
 # EstimateFundamentalMatrix.py
 import cv2
 import numpy as np
