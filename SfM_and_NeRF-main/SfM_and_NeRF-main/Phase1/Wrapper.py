@@ -1,5 +1,4 @@
 # RBE549: Building Built in Minutes using SfM
-# Karter Krueger and Tript Sharma
 # Wrapper.py
 
 import argparse
