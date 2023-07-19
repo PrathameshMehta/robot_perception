@@ -12,7 +12,7 @@ args = parser.parse_args()
 
 MSCOCO_DATA_PATH = args.mscoco_data_path
 if not MSCOCO_DATA_PATH:
-    MSCOCO_DATA_PATH = '/home/radha/WPI/CV/hw1/rrsaraf_p1/Phase2/Data/Train/'
+    MSCOCO_DATA_PATH = 'path in personal machine'
 
 
 def generate_data(patch_size: int = 128, perturb_max: int = 32, pixel_buffer_len: int = 150, color: bool = True):
@@ -160,4 +160,4 @@ def organize_shuffle_split_data(path_to_data: str):
 
 if __name__ == '__main__':
     generate_data()
-    organize_shuffle_split_data("/home/radha/WPI/CV/rbe549-my-auto-pano/Phase2/Data")
+    organize_shuffle_split_data("dataset path")
