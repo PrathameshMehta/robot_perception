@@ -53,9 +53,3 @@ We did a brute force feature matching with all possible pairs and recognised the
 <p float="middle">
 <img src="report/phase1/graph_appraoch.png" />
 </p>
-
-
-## Collaborators 
-Radha Saraf - rrsaraf@wpi.edu
-
-Ramana - spinnamaraju@wpi.edu
